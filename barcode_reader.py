@@ -1,4 +1,4 @@
-# Importe required libraries
+# Import required libraries
 import sys
 import cv2
 from pyzbar.pyzbar import decode
